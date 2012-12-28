@@ -7,13 +7,17 @@ If you see anything in here that can be improved, please help me out and let me 
 Here's a breakdown of the folder structure used:
 
 ##css
-	-This is where the compiled css will go. Files here never really get touched. All of the code writing will happen in the .scss files, then will be compiled down here using codekit.
+	-This is where the compiled css will go.
+	Files here never really get touched.
+	All of the code writing will happen in the .scss files, then will be compiled down here using codekit.
 ##helpers
- 	-These are the tools I use to set the defaults for a site. These files are gathered from a few different places, then adjusted to meet my needs.
+ 	-These are the tools I use to set the defaults for a site.
+ 	These files are gathered from a few different places, then adjusted to meet my needs.
 ##img
 	-Self explanatory. I'm now separating the inline styles from styles that are referenced in the css.
 ##parts
-	-These are the building blocks that will be used to build out a site. The files naming convention is based on SMACSS by Jonathan Snook (@snookca)
+	-These are the building blocks that will be used to build out a site.
+	The files naming convention is based on SMACSS by Jonathan Snook (@snookca)
 
 #Pathfinder is a combination of many different resources:
 
