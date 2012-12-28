@@ -11,7 +11,7 @@ Here's a breakdown of the folder structure used:
 	-All of the actual code writing will happen in the .scss files, then will be compiled down here using codekit.
 ##helpers
  	-These are the tools I use to set the defaults for a site.
- 	-These files are gathered from a few different places, then adjusted to meet my needs.
+ 	-They're gathered from a few different places, then adjusted to meet my needs.
 ##img
 	-Self explanatory. I'm now separating the inline styles from styles that are referenced in the css.
 ##parts
@@ -23,7 +23,7 @@ Here's a breakdown of the folder structure used:
 ##Vanilla
  - Much of this is based on [_Vanilla_](http://github.com/csswizardry/vanilla) by [Harry Roberts](https://github.com/csswizardry), but my version only contains the base styles that I've needed for my projects so far. 
  
-  - I encourage you to check out [Inuit.css](https://github.com/csswizardry/inuit.css) for a more comprehensive framework.
+ - I encourage you to check out [Inuit.css](https://github.com/csswizardry/inuit.css) for a more comprehensive framework.
 
 ##SMACSS
  - The file names in the _parts_ folder are taken from [SMACSS](http://smacss.com/) by Jonathan Snook [@snookca](http:www.twitter.com/snookca) , which is an essential read about css architecture. He divides his styles into base, layout, modules and states. I'll likely abstract it a bit more as I go along, but I think this is a fantastic place to start.
