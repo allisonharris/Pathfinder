@@ -2,14 +2,7 @@
 
 Pathfinder is my default starting point for all of my builds. This is a work in progress and will be updated as my needs change.
 
-	This is my **front-end starting point**. There are many like it, but this one is mine.
-	My **Pathfinder** is my best friend.
-	It is my life. I must master it as I must master my life.
-	My **Pathfinder**, without me, is useless.
-	Without my **Pathfinder**, I am useless
-	...
-
-  If you see anything in here that can be improved, please help me out and let me know. 
+If you see anything in here that can be improved, please help me out and let me know. 
 
 Here's a breakdown of the folder structure used:
 
@@ -37,6 +30,9 @@ Here's a breakdown of the folder structure used:
 ## The [micro clearfix](http://nicolasgallagher.com/micro-clearfix-hack/) & [Normalize](https://github.com/necolas/normalize.css) are both from [Nicolas Gallagher.](https://github.com/necolas)
 
 
-	Before God, I swear this creed. My **Pathfinder** and myself are the defenders of my country.
-	We are the masters of our enemy(IE).We are the saviors of my life.
-	So be it, until victory is America's and there is no enemy, but peace!
+	This is my **front-end starting point**. There are many like it, but this one is mine.
+	My **Pathfinder** is my best friend.
+	It is my life. I must master it as I must master my life.
+	My **Pathfinder**, without me, is useless.
+	Without my **Pathfinder**, I am useless
+	...
