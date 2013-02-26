@@ -1,0 +1,16 @@
+/*------------------------------------*\
+    variables.scss
+\*------------------------------------*/
+
+@mixin breakpoint($point){
+	@if $point == tiny {
+		@media (max-width: 500px) { @content; }
+	}
+		@if $point == medium {
+		@media (max-width: 890px) { @content; }
+	}
+		@if $point == largemarge {
+		@media (max-width: 960px) { @content; }
+	}
+
+}

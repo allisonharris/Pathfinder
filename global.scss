@@ -3,23 +3,21 @@
 \*------------------------------------*/
 
 /*
- * Setup - Importing my helpers, which I'll trun on as needed
+ * Setup - importing my helper files, which I'll turn on as needed
  */
-@import "helpers/normalize";
-@import "helpers/reset";
-@import "helpers/clearfix";
-@import "helpers/images";
-@import "helpers/links";
+// @import "helpers/normalize";
+// @import "helpers/reset";
+// @import "helpers/clearfix";
+// @import "helpers/images";
+// @import "helpers/links";
 
 // @import "helpers/debug";
 
 
 /**
- * Begin importing files here - The are based on
-  SMACSS architecture by Jonathan Snook @snookca
- */
+ * Begin importing files here 
+**/
 
-@import "parts/base";
-@import "parts/layout";
-@import "parts/modules";
+@import "parts/styles";
+@import "parts/variables";
 

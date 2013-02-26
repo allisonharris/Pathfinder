@@ -1,0 +1,16 @@
+/*------------------------------------*\
+   styles.scss
+   use this for main styles until I break it up later down the line.
+\*------------------------------------*/
+
+ .header{
+    background-color: red;
+    height: 200px;
+    width: 100%;
+}
+
+
+///to include breakpoint use this include
+@include breakpoint (largemarge){
+
+}
