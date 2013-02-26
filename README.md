@@ -13,10 +13,9 @@ Here's a breakdown of the folder structure used:
  	-These are the tools I use to set the defaults for a site.
  	-They're gathered from a few different places, then adjusted to meet my needs.
 ##img
-	-Self explanatory. I'm now separating the inline styles from styles that are referenced in the css.
+	-Self explanatory.
 ##parts
 	-These are the building blocks that will be used to build out a site.
-	-The files naming convention is based on SMACSS by Jonathan Snook (@snookca)
 
 #Pathfinder is a combination of many different resources:
 
@@ -24,11 +23,6 @@ Here's a breakdown of the folder structure used:
  - Much of this is based on [_Vanilla_](http://github.com/csswizardry/vanilla) by [Harry Roberts](https://github.com/csswizardry), but my version only contains the base styles that I've needed for my projects so far. 
  
  - I encourage you to check out [Inuit.css](https://github.com/csswizardry/inuit.css) for a more comprehensive framework.
-
-##SMACSS
- - The file names in the _parts_ folder are taken from [SMACSS](http://smacss.com/) by Jonathan Snook [@snookca](http:www.twitter.com/snookca) , which is an essential read about css architecture. He divides his styles into base, layout, modules and states. I'll likely abstract it a bit more as I go along, but I think this is a fantastic place to start.
-
- - SMACSS is much more than simply dividing up and naming files though, so please do yourself a favor and read it.
 
 ## The [micro clearfix](http://nicolasgallagher.com/micro-clearfix-hack/) & [Normalize](https://github.com/necolas/normalize.css) are both from [Nicolas Gallagher.](https://github.com/necolas)
 
