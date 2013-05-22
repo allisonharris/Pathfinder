@@ -26,10 +26,6 @@ Here's a breakdown of the folder structure used:
 
 ## The [micro clearfix](http://nicolasgallagher.com/micro-clearfix-hack/) & [Normalize](https://github.com/necolas/normalize.css) are both from [Nicolas Gallagher.](https://github.com/necolas)
 
+## The elements.html file was taken from the developers at [Q Digital Studio](http://qdigitalstudio.com), who sourced it from [the azbuka project](http://code.google.com/p/azbuka/)and the [bluetrip project](http://bluetrip.org/) and [peter beverloo](http://peter.sh/examples/?/html/meter-progress.html)
 
-	This is my **front-end starting point**. There are many like it, but this one is mine.
-	My **Pathfinder** is my best friend.
-	It is my life. I must master it as I must master my life.
-	My **Pathfinder**, without me, is useless.
-	Without my **Pathfinder**, I am useless
-	...
+
